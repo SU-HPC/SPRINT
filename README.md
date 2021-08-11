@@ -1,5 +1,53 @@
 # SPRINT
 
+## Sparse Storage Formats
+
+1. COO
+- Mode Generic
+[Repo](6https://github.com/hpcgarage/ParTI)
+
+2. HiCOO
+- Mode Generic
+[Paper](http://fruitfly1026.github.io/static/files/sc18-li.pdf)
+[Repo](https://github.com/hpcgarage/ParTI)
+
+3. F-COO
+- Mode Generic
+[Paper](https://par.nsf.gov/servlets/purl/10049150)
+[Repo]([https://github.com/kobeliu85/mttkrp-gpu](https://github.com/kobeliu85/mttkrp-gpu))
+
+4. CSF
+- Mode Generic
+[Paper](https://par.nsf.gov/servlets/purl/10049150)
+[Repo](https://github.com/ShadenSmith/splatt)
+
+5. B-CSF
+- Mode Specific
+[Paper](https://arxiv.org/pdf/1904.03329.pdf)
+[Repo](https://github.com/isratnisa/B-CSF)
+
+6. HB-CSF
+- Mode Specific
+[Paper](https://arxiv.org/pdf/1904.03329.pdf)
+[Repo](https://github.com/isratnisa/B-CSF)
+
+7. MM-CSF
+- Mode Specific
+[Paper](https://dl.acm.org/doi/pdf/10.1145/3295500.3356216)
+[Repo](https://github.com/isratnisa/MM-CSF)
+
+8. CISS
+- Mode Specific
+[Paper](https://www.csl.cornell.edu/~zhiruz/pdfs/tensaurus-hpca2020.pdf)
+
+9. ALTO
+- Mode Generic
+[Paper](https://arxiv.org/pdf/2102.10245.pdf)
+
+10. 2:4 Sparsity (Matrix Only)
+- Mode Specific
+[Slide](https://drive.google.com/file/d/1ORZ_arxlqMYiD-_eSRjRyY0Wdmpu4eZG/view)
+
 ## Frameworks
 
 ### Tensor
