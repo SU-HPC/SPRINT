@@ -4,7 +4,7 @@
 
 1. **COO**
 - Mode Generic
-- [Repo](6https://github.com/hpcgarage/ParTI)
+- [Repo](https://github.com/hpcgarage/ParTI)
 
 2. **HiCOO**
 - Mode Generic
