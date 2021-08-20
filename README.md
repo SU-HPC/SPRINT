@@ -56,6 +56,7 @@
 2. [ParTI!](https://github.com/hpcgarage/ParTI)
 3. [Cyclops Tensor Framework (CTF)](https://github.com/cyclops-community/ctf)
 4. [FROSST (Data)](http://frostt.io/)
+4. [TACO](http://tensor-compiler.org/)
 
 ### Graph
 1. [GraphBLAST](https://github.com/gunrock/graphblast)
