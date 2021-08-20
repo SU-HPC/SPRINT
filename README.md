@@ -94,6 +94,7 @@
 25. [Efficient MATLAB computations with sparse and factored tensors](https://old-www.sandia.gov/~tgkolda/pubs/pubfiles/SAND2006-7592.pdf)
 26. [A High-Performance Sparse Tensor Algebra Compiler in sMulti-Level IR](https://arxiv.org/pdf/2102.05187.pdf)
 27. [The Tensor Algebra Compiler](https://dl.acm.org/doi/pdf/10.1145/3133901)
+28. [Sparse Tensor Algebra Compilation (thesis)](http://fredrikbk.com/publications/kjolstad-thesis.pdf)
 
 ### Matrix
 1. [On the Representation and Multiplication of Hypersparse Matrices](https://crd.lbl.gov/assets/pubs_presos/hypersparse-ipdps08.pdf)
