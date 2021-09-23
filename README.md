@@ -63,14 +63,14 @@
 1. [GraphBLAST](https://github.com/gunrock/graphblast)
 2. [cuGRAPH](https://github.com/rapidsai/cugraph)
 
-### Matrix
-
 ## Papers
 
 ### Tensor
 
 1. [Efficient MATLAB computations with sparse and factored tensors](https://www.kolda.net/publication/SIAM-67648.pdf)
-	SIAM Journal on Scientific Computing, vol. 30, no. 1, pp. 205–231, December 2007
+	, SIAM Journal on Scientific Computing, vol. 30, no. 1, pp. 205–231, December 2007
+20. [Tensor Decompositions and Applications](https://www.kolda.net/publication/TensorReview.pdf)
+	, SIAM Review, vol. 51, no. 3, pp. 455–500, 2009
 1. [GigaTensor: Scaling Tensor Analysis Up By 100 Times](https://www.cs.cmu.edu/~christos/PUBLICATIONS/kdd12-gigatensor.pdf)
 2. [SpTFS: sparse tensor format selection for MTTKRP via deep learning](https://dl.acm.org/doi/abs/10.5555/3433701.3433724)
 3. [Load-Balanced Sparse MTTKRP on GPUs](https://arxiv.org/pdf/1904.03329.pdf)
@@ -81,24 +81,25 @@
 8. [Implementing a high performance tensor library](https://downloads.hindawi.com/journals/sp/2003/205264.pdf)
 9. [Optimizing sparse tensor times matrix on GPUs](https://www.sciencedirect.com/science/article/abs/pii/S0743731518305161)
 10. [Efficient and Scalable Computations with Sparse Tensors](http://www.ieee-hpec.org/2012/index_htm_files/Baskaranpaper.pdf)
-	High Performance Extreme Computing (HPEC), 2012
+	, High Performance Extreme Computing (HPEC), 2012
 11. [Scalable sparse tensor decompositions in distributed memory systems](https://hal.inria.fr/hal-01148202v2/document)
+	, International Conference for High Performance Computing, Networking, Storage and Analysis, 2015
 12. [High-performance parallel algorithms for the Tucker decomposition of higher order sparse tensors](https://hal.inria.fr/hal-01219316/document)
 13. [HaTen2: Billion-scale Tensor Decompositions](https://www.cs.ucr.edu/~epapalex/papers/haten2_icde2015.pdf)
+	, International Conference on Data Engineering (ICDE), 2015
 14. [SPLATT: Efficient and Parallel Sparse Tensor-Matrix Multiplication](https://conservancy.umn.edu/bitstream/handle/11299/215973/15-008.pdf;jsessionid=0DB8D6E0AE1089BFB9B6C410AA9F1A3F?sequence=1)
+	, Parallel & Distributed Processing Symposium, ser. IPDPS, 2015
 15. [Tensor-Matrix Products with a Compressed Sparse Tensor](https://dl.acm.org/doi/pdf/10.1145/2833179.2833183)
 16. [Efficient and effective sparse tensor reordering](https://hal.inria.fr/hal-02306569/document)
 17. [HiCOO: Hierarchical Storage of Sparse Tensors](http://fruitfly1026.github.io/static/files/sc18-li.pdf)
 18. [An Eficient Mixed-Mode Representation of Sparse Tensors](https://par.nsf.gov/servlets/purl/10172913)
 29. [Tensor-Matrix Products with a Compressed Sparse Tensor](http://glaros.dtc.umn.edu/gkhome/node/1177)
-	5th Workshop on Irregular applications: Architectures and Algorithms, Supercomputing, 2015
+	, 5th Workshop on Irregular applications: Architectures and Algorithms, Supercomputing, 2015
 30. [Optimizing Sparse Tensor Times Matrix on Multi-core and Many-Core Architectures](https://ieeexplore.ieee.org/document/7833300)
-	 2016 6th Workshop on Irregular Applications: Architecture and Algorithms (IA3)
+	 , 2016 6th Workshop on Irregular Applications: Architecture and Algorithms (IA3)
 19. [A Unified Optimization Approach for Sparse Tensor Operations on GPUs](https://par.nsf.gov/servlets/purl/10049150)
-	2017 IEEE International Conference on Cluster Computing (CLUSTER), Sept 2017
-20. [Tensor Decompositions and Applications](https://www.kolda.net/publication/TensorReview.pdf)
+	, 2017 IEEE International Conference on Cluster Computing (CLUSTER), Sept 2017
 21. [Tensaurus: A Versatile Accelerator for Mixed Sparse-Dense Tensor Computation](https://www.csl.cornell.edu/~zhiruz/pdfs/tensaurus-hpca2020.pdf)
-22. [The Surprisingly ParalleL spArse Tensor Toolkit (SPLATT)](https://github.com/ShadenSmith/splatt)
 23. [Sparta: High-Performance, Element-Wise Sparse Tensor Contraction on Heterogeneous Memory](http://pasalabs.org/papers/2021/ppopp21_sparta.pdf)
 24. [Efficient MATLAB computations with sparse and factored tensors](https://old-www.sandia.gov/~tgkolda/pubs/pubfiles/SAND2006-7592.pdf)
 25. [A High-Performance Sparse Tensor Algebra Compiler in sMulti-Level IR](https://arxiv.org/pdf/2102.05187.pdf)
