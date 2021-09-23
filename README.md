@@ -19,7 +19,7 @@
 - [Repo](https://github.com/kobeliu85/mttkrp-gpu)
 
 4. **CSF**
-- Mode Generic
+- Mode Specific
 - [Paper](https://par.nsf.gov/servlets/purl/10049150)
 - [Repo](https://github.com/ShadenSmith/splatt)
 
