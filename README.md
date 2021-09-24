@@ -60,10 +60,20 @@
 4. [TACO](http://tensor-compiler.org/)
 
 ### Graph
-1. [GraphBLAST](https://github.com/gunrock/graphblast)
-2. [cuGRAPH](https://github.com/rapidsai/cugraph)
+1. [Gunrock](https://github.com/gunrock)
+2. [GraphBLAST](https://github.com/gunrock/graphblast)
+3. [cuGRAPH](https://github.com/rapidsai/cugraph)
+4. [CombBLAS](https://github.com/PASSIONLab/CombBLAS)
+5. [GraphBLAS](https://github.com/GraphBLAS)
 
 ### Matrix
+
+1. [Eigen](https://eigen.tuxfamily.org/index.php?title=Main_Page)
+2. [LAPACK](http://www.netlib.org/lapack/)
+3. [ScaLAPACK](http://www.netlib.org/scalapack/)
+4. [BLAS](http://www.netlib.org/blas/)
+5. [Armadillo](http://arma.sourceforge.net/)
+6. [MAGMA](http://icl.cs.utk.edu/magma/)
 
 ## Papers
 
@@ -90,6 +100,8 @@
 16. [Efficient and effective sparse tensor reordering](https://hal.inria.fr/hal-02306569/document)
 17. [HiCOO: Hierarchical Storage of Sparse Tensors](http://fruitfly1026.github.io/static/files/sc18-li.pdf)
 18. [An Eficient Mixed-Mode Representation of Sparse Tensors](https://par.nsf.gov/servlets/purl/10172913)
+19. [Sparse Tensor Algebra as a Parallel Programming Model](https://arxiv.org/pdf/1512.00066.pdf)
+	2015
 29. [Tensor-Matrix Products with a Compressed Sparse Tensor](http://glaros.dtc.umn.edu/gkhome/node/1177)
 	5th Workshop on Irregular applications: Architectures and Algorithms, Supercomputing, 2015
 30. [Optimizing Sparse Tensor Times Matrix on Multi-core and Many-Core Architectures](https://ieeexplore.ieee.org/document/7833300)
@@ -98,8 +110,10 @@
 	2017 IEEE International Conference on Cluster Computing (CLUSTER), Sept 2017
 20. [Tensor Decompositions and Applications](https://www.kolda.net/publication/TensorReview.pdf)
 21. [Tensaurus: A Versatile Accelerator for Mixed Sparse-Dense Tensor Computation](https://www.csl.cornell.edu/~zhiruz/pdfs/tensaurus-hpca2020.pdf)
+	2020 IEEE International Symposium on High Performance Computer Architecture (HPCA)
 22. [The Surprisingly ParalleL spArse Tensor Toolkit (SPLATT)](https://github.com/ShadenSmith/splatt)
 23. [Sparta: High-Performance, Element-Wise Sparse Tensor Contraction on Heterogeneous Memory](http://pasalabs.org/papers/2021/ppopp21_sparta.pdf)
+	Proceedings of the 26th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming 2021
 24. [Efficient MATLAB computations with sparse and factored tensors](https://old-www.sandia.gov/~tgkolda/pubs/pubfiles/SAND2006-7592.pdf)
 25. [A High-Performance Sparse Tensor Algebra Compiler in sMulti-Level IR](https://arxiv.org/pdf/2102.05187.pdf)
 26. [The Tensor Algebra Compiler](https://dl.acm.org/doi/pdf/10.1145/3133901)
@@ -111,3 +125,11 @@
 2. [Bridging the Gap between Deep Learning and Sparse Matrix Format Selection](https://people.engr.ncsu.edu/xshen5/Publications/ppopp18.pdf)
 3. [Load-balancing Sparse Matrix Vector Product Kernels on GPUs](https://dl.acm.org/doi/pdf/10.1145/3380930)
 4. [OuterSPACE: An Outer Product based Sparse Matrix Multiplication Accelerator](http://tnm.engin.umich.edu/wp-content/uploads/sites/353/2018/10/2018.02.outerspace.pdf)
+
+### Graph
+1. [Mathematical Foundations of the GraphBLAS](https://arxiv.org/pdf/1606.05790.pdf)
+	IEEE High Performance Extreme Computing (HPEC) conference 2016
+2. [GraphBLAST: A High-Performance Linear Algebra-based Graph Framework on the GPU](https://arxiv.org/pdf/1908.01407.pdf)
+	2019
+3. [LAGraph: Linear Algebra, Network Analysis Libraries, and the Study of Graph Algorithms](https://arxiv.org/pdf/2104.01661.pdf)
+    2021, GrAPL (Workshop on Graphs, Architectures, Programming, and Learning) at IPDPS
