@@ -65,6 +65,8 @@
 3. [cuGRAPH](https://github.com/rapidsai/cugraph)
 4. [CombBLAS](https://github.com/PASSIONLab/CombBLAS)
 5. [GraphBLAS](https://github.com/GraphBLAS)
+6. [nvGraph](https://developer.nvidia.com/nvgraph)
+7. []
 
 ### Matrix
 
@@ -72,8 +74,11 @@
 2. [LAPACK](http://www.netlib.org/lapack/)
 3. [ScaLAPACK](http://www.netlib.org/scalapack/)
 4. [BLAS](http://www.netlib.org/blas/)
+5. [suitesparse](https://people.engr.tamu.edu/davis/suitesparse.html)
 5. [Armadillo](http://arma.sourceforge.net/)
 6. [MAGMA](http://icl.cs.utk.edu/magma/)
+7. [sparseX](http://research.cslab.ece.ntua.gr/sparsex)
+8. [Pardiso](https://www.pardiso-project.org/)
 
 ## Papers
 
