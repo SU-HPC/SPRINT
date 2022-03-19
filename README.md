@@ -57,7 +57,7 @@
 2. [ParTI!](https://github.com/hpcgarage/ParTI)
 3. [Cyclops Tensor Framework (CTF)](https://github.com/cyclops-community/ctf)
 4. [FROSST (Data)](http://frostt.io/)
-4. [TACO](http://tensor-compiler.org/)
+5. [TACO](http://tensor-compiler.org/)
 
 ### Graph
 1. [Gunrock](https://github.com/gunrock)
@@ -128,6 +128,7 @@
 26. [The Tensor Algebra Compiler](https://dl.acm.org/doi/pdf/10.1145/3133901)
 27. [Sparse Tensor Algebra Compilation (thesis)](http://fredrikbk.com/publications/kjolstad-thesis.pdf)
 28. [High performance rearrangement and multiplication routines for sparse tensor arihtmetic](https://arxiv.org/pdf/1802.02619.pdf)
+29. [DISTAL](https://arxiv.org/pdf/2203.08069.pdf)
 
 ### Matrix
 1. [On the Representation and Multiplication of Hypersparse Matrices](https://crd.lbl.gov/assets/pubs_presos/hypersparse-ipdps08.pdf)
